@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>博客搭建</title>
+    <url>/2019/11/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<h3 id="总的发布流程：（命令必须！在blog文件夹里用get-bush-here）"><a href="#总的发布流程：（命令必须！在blog文件夹里用get-bush-here）" class="headerlink" title="总的发布流程：（命令必须！在blog文件夹里用get bush here）"></a>总的发布流程：（命令<strong>必须！</strong>在blog文件夹里用get bush here）</h3><p><strong>1.建博客</strong>，在命令行中输入：<br>    hexo n “博客名字”<br><strong>2.写博客：</strong>typora<br><strong>3.写完预览：</strong>回到gitbash中，进入你的blog目录，分别执行以下命令：（每次更新博客都要走这3个。然后在localhost:4000 就能预览，最后按完 Ctrl+C 就没法再预览了）<br>    hexo clean<br>    hexo generate<br>    hexo server<br><strong>4.网页部署，发布：</strong><a href="https://thelethe.github.io/hexo" target="_blank" rel="noopener">https://thelethe.github.io/hexo</a><br>    hexo g<br>    hexo d<br>ps.删除博客：</p>
+]]></content>
+      <categories>
+        <category>知识学习</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>github</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2019/11/11/test/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>难念的经</title>
+    <url>/2019/11/10/%E9%9A%BE%E5%BF%B5%E7%9A%84%E7%BB%8F/</url>
+    <content><![CDATA[<ul>
+<li><p>笑你我枉花光心计</p>
+</li>
+<li><p>爱竞逐镜花那美丽</p>
+</li>
+<li><p>怕幸运会转眼远逝</p>
+</li>
+<li><p>为贪嗔喜恶怒着迷</p>
+</li>
+<li><p>责你我太贪功恋势</p>
+</li>
+<li><p>怪大地众生太美丽</p>
+</li>
+<li><p>悔旧日太执信约誓</p>
+</li>
+<li><p>为悲欢哀怨妒着迷</p>
+</li>
+</ul>
+<blockquote>
+<p>这个现实的结果就是，<strong>现在绝大多数应届简历而言，也许最具信息量的部分不是“精通XXX，熟悉YYY，掌握ZZZ”，不是“在UUU实习过”，也不是这个项目那个作业，反倒是越来越被认为不重要的一项：毕业学校</strong>。<em>毕业学校本不应该是最具信息量的</em>，它之所以最具信息量只是源于一个悲剧的事实：<em>简历上其他条目实在信息量太少了</em>。所以靠谱的面试者往往学会了无视简历上华而不实的内容，只相信面试的时候亲眼所见，扫两眼简历也就罢了，最后还得自己捋起袖子慢慢面。而应聘者也许也知道招聘的也不会细细纠简历上的条目，所以什么词也都敢往上捅，反正先过了HR筛简历这关再说。从经济学角度来讲，应聘者的这种策略是正确的，没有代价（因为目前似乎没有公司会去给已经申请过的人做一个诚信数据库），但至少有可能会带来巨大的收益。应聘成了博彩。而博彩式的应聘给招聘公司带来了巨大的筛选压力。简历成了摆设。 </p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
+    <title>test_my_site</title>
+    <url>/2019/11/10/test-my-site/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+</search>
